@@ -1,0 +1,25 @@
+{
+  "name": "conkie-stats-mpris",
+  "version": "1.0.0",
+  "description": "Conkie-Stats plugin for MPRIS2 protocol (media playing service for DBUS)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/conkie-stats-mpris.git"
+  },
+  "keywords": [
+    "conkie",
+    "conkie-stats",
+    "mpris",
+    "dbus"
+  ],
+  "author": "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/conkie-stats-mpris/issues"
+  },
+  "homepage": "https://github.com/hash-bang/conkie-stats-mpris#readme",
+  "dependencies": {
+    "mpris": "0.0.2"
+  }
+}
