@@ -1,6 +1,6 @@
 {
   "name": "conkie-stats-mpris",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conkie-Stats plugin for MPRIS2 protocol (media playing service for DBUS)",
   "main": "index.js",
   "repository": {
